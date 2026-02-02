@@ -1,5 +1,9 @@
 Dubai Public Transport & Nol Card Guide
 
+### Additional Information
+- [Dubai Metro Tips](metro-tips.md)
+- [Nol Card Basics for Tourists](nol-card-info.md)
+
 This repository provides basic information to help visitors understand how public transport works in Dubai, UAE. It is intended for tourists and first-time users who want simple guidance on using the Metro, buses, trams, and Nol cards.
 
 Dubai has a modern and efficient transport system, but many travelers are unsure about fares, card usage, and balance checks. This guide summarizes the essentials in one place.
